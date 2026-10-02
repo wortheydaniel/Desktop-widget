@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=CachyOS Weather
+Comment=Today and tomorrow's forecast, plus the day's headlines
+Exec=cachy-widget
+Icon=weather-few-clouds
+Terminal=false
+Categories=Utility;Weather;
+StartupWMClass=cachy-widget
